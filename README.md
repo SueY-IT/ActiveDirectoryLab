@@ -1,7 +1,5 @@
 <h1>Active Directory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 This project consists of creating an Active Directory (AD) domain controller and DHCP server, and add a client to the domain. 
 <br />
