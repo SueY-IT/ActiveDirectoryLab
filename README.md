@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-This project consists of creating an Active Directory (AD) domain controller and DHCP server, and add a client to the domain. 
+This project involves deploying a virtualized Windows Server 2019 environment using VirtualBox to create and configure an Active Directory (AD) domain controller and DHCP server, with a Windows 10 client added to the domain. Key skills utilized include virtualization & system deployment, networking & configuration, active directory & domain management, Windows server administration, and automation with PowerShell. 
 <br />
 
 
